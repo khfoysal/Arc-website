@@ -121,8 +121,10 @@ margin: 0 auto;
     font-size: 2.8rem;
 
 }
-.teams-title  quick-list {
+.teams-title .quick-list {
    color:#727272; 
 }
-
+.teams-title .text-Features {
+    color: #FF900E;
+}
 
